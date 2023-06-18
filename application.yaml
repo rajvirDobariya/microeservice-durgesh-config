@@ -6,4 +6,3 @@
       register-with-eureka: true
       service-url:
         defaultZone: http://localhost:9094/eureka
-	
